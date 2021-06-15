@@ -6,7 +6,7 @@ html{
 
 body{
     color:#24292e;
-    animation: fadeIn 3s ease 0s 1 normal;
+    animation: fadeIn 2s ease 0s 1 normal;
 }
 
 @keyframes fadeIn { 
