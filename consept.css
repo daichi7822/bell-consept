@@ -21,6 +21,15 @@ consept{
     display: flex;
 }
 
+header img{
+    width: 6%;
+    height: auto;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 10;
+}
+
 .wrapper{
     text-align: center;
     width: 100%;
@@ -62,6 +71,10 @@ p{
 
     .wrapper{
         margin: 15% 3% 10% 3%;
+    }
+    
+    header img{
+        width: 12%;
     }
 
 }
